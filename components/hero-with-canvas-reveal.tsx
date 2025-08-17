@@ -38,6 +38,10 @@ export default function HeroWithCanvasReveal() {
           The revolutionary AI agent pioneering the future of blockchain intelligence. Experience the power of the first
           AI model on XLayer Chain, now issuing the XenAI token.
         </p>
+        <p className="mt-2 text-lg text-green-400 font-mono break-all text-center">
+          $XEN : 0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f
+        </p>
+        
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <Link href="https://dyorswap.org/xswap/?chainId=196&inputCurrency=OKB&outputCurrency=0x069f3bb2A286Ec9ce9F4DADba5E1E9e1d80BA27f" target="_blank">
             <Button
