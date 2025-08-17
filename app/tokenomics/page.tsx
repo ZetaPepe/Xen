@@ -34,12 +34,12 @@ export default function TokenomicsPage() {
             </div>
             <div className="bg-green-900/20 border border-green-500/30 rounded-2xl p-6 text-center">
               <h3 className="text-2xl font-bold text-white mb-2">Initial Price</h3>
-              <p className="text-3xl font-bold text-green-400 mb-2">$0.001</p>
+              <p className="text-3xl font-bold text-green-400 mb-2">not live</p>
               <p className="text-gray-300 text-sm">Per XenAI Token</p>
             </div>
             <div className="bg-green-900/20 border border-green-500/30 rounded-2xl p-6 text-center">
               <h3 className="text-2xl font-bold text-white mb-2">Market Cap</h3>
-              <p className="text-3xl font-bold text-green-400 mb-2">$1,000,000</p>
+              <p className="text-3xl font-bold text-green-400 mb-2">not live</p>
               <p className="text-gray-300 text-sm">At Launch</p>
             </div>
           </div>
