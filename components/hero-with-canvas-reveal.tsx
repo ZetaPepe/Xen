@@ -39,12 +39,14 @@ export default function HeroWithCanvasReveal() {
           AI model on XLayer Chain, now issuing the XenAI token.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
-          <Button
-            size="lg"
-            className="bg-green-600 hover:bg-green-500 text-white font-semibold py-3 px-8 rounded-lg text-lg transition-all duration-300 ease-in-out transform hover:scale-105"
-          >
-            Get XenAI Token
-          </Button>
+          <Link href="https://dyorswap.org/xswap/?chainId=196&inputCurrency=OKB&outputCurrency=0x069f3bb2A286Ec9ce9F4DADba5E1E9e1d80BA27f" target="_blank">
+            <Button
+              size="lg"
+              className="bg-green-600 hover:bg-green-500 text-white font-semibold py-3 px-8 rounded-lg text-lg transition-all duration-300 ease-in-out transform hover:scale-105"
+            >
+              Get XenAI Token
+            </Button>
+          </Link>
           <Link href="/whitepaper">
             <Button
               size="lg"
