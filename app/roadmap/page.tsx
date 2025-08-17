@@ -8,7 +8,7 @@ export default function RoadmapPage() {
     {
       phase: "Phase 1",
       title: "Foundation & Launch",
-      period: "Q1 2024",
+      period: "Q1 2025",
       status: "completed",
       items: [
         "XenAI core AI model development",
@@ -21,7 +21,7 @@ export default function RoadmapPage() {
     {
       phase: "Phase 2",
       title: "Platform Development",
-      period: "Q2 2024",
+      period: "Q2 2025",
       status: "in-progress",
       items: [
         "AI inference API launch",
@@ -34,7 +34,7 @@ export default function RoadmapPage() {
     {
       phase: "Phase 3",
       title: "Ecosystem Expansion",
-      period: "Q3 2024",
+      period: "Q3 2025",
       status: "upcoming",
       items: [
         "Multi-model AI architecture",
@@ -47,7 +47,7 @@ export default function RoadmapPage() {
     {
       phase: "Phase 4",
       title: "Autonomous Operations",
-      period: "Q4 2024",
+      period: "Q4 2025",
       status: "upcoming",
       items: [
         "Fully autonomous AI agents",
@@ -222,7 +222,7 @@ export default function RoadmapPage() {
                     <span className="text-white text-2xl font-bold">1M</span>
                   </div>
                   <h3 className="text-xl font-semibold text-white">Users</h3>
-                  <p className="text-green-400 text-sm">Target by Q3 2024</p>
+                  <p className="text-green-400 text-sm">Target by Q3 2025</p>
                 </div>
                 <p className="text-gray-300 text-sm text-center">
                   Reach 1 million active users across the XenAI ecosystem
@@ -235,7 +235,7 @@ export default function RoadmapPage() {
                     <span className="text-white text-2xl font-bold">100</span>
                   </div>
                   <h3 className="text-xl font-semibold text-white">Partners</h3>
-                  <p className="text-green-400 text-sm">Target by Q4 2024</p>
+                  <p className="text-green-400 text-sm">Target by Q4 2025</p>
                 </div>
                 <p className="text-gray-300 text-sm text-center">
                   Strategic partnerships with leading blockchain and AI companies
